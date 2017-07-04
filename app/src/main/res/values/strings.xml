@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PhotoExample (Unsplash)</string>
+    <string name="photos">%d Photos</string>
+    <string name="liked">%d Liked</string>
+    <string name="collections">%d Collections</string>
+</resources>
