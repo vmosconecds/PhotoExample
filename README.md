@@ -12,8 +12,11 @@ You can also find:
   - Picasso
   - Stetho
   - Retrofit
+
 ### Version
+
 1.0
+
 ### API
 
 PhotoExample uses a images from Unsplash:
